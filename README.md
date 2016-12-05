@@ -1,6 +1,4 @@
-s</h2>
 <p>使用pomelo编写的一个五子棋小游戏</p>
-
 
 #docker编译
 如果宿主机装了docker环境，直接运行命令，然后在浏览器打开如下地址 http://xxx.xxx.xxx.xxx:3001  (xxx为宿主机IP)
